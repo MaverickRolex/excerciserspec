@@ -1,0 +1,17 @@
+development:
+  database: ejerciciorspec_development
+  adapter: postgresql
+  username: usuario
+  password: 186425 # from psql setup, see Postgresql  
+  host: localhost
+  pool: 5
+  timeout: 5000
+
+test:
+  database: ejerciciorspec_development
+  adapter: postgresql
+  username: usuario
+  password: 186425 # from psql setup, see Postgresql  
+  host: localhost
+  pool: 5
+  timeout: 5000
