@@ -10,3 +10,5 @@ class CreateCars < ActiveRecord::Migration[5.0]
     end
   end
 end
+
+#model_name has change for car_model in ChangeCarsModelName migration
